@@ -1,0 +1,12 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+textblob
+flask
+langchain
+langchain_groq
+faiss-cpu
+tiktoken
+langchain_community
+langchain_core
+python-dotenv

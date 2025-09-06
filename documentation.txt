@@ -1,0 +1,14 @@
+Here's a quick look at how I built this tool.
+
+What It Is (The Parts)
+A Website: I made a simple website that acts as our main dashboard to see all the support emails in one place.
+
+A Gmail Link: The site securely connects to a Gmail account to find messages from customers asking for help.
+
+
+How It Thinks (My Approach)
+My main goal was to make sure the AI gives good, accurate answers.
+
+So, before the AI writes anything, I make it read from a special folder of our own help files. This way, its answers are based on our real information, not just random stuff from the internet.
+
+Most importantly, a person is always in charge. The AI only suggests a reply. You get to check it, make any changes you like, and then you are the one who clicks send.
